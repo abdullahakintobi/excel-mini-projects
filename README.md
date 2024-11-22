@@ -1,2 +1,2 @@
-# excel-mini-projects
-Microsoft Excel Mini Projects
+# mini-projects
+My Mini Projects
