@@ -1,0 +1,12 @@
+Date,Month,Year,Customer_Age,Age_Group,Customer_Gender,Country,State,Product_Category,Order_Quantity,Profit,Cost, Revenue 
+12/1/2021,December,2021,39,Adults (35-64),F,United States,California,Bikes,4,"$3,988","$5,008","$8,996"
+12/1/2021,December,2021,42,Adults (35-64),M,United States,Washington,Bikes,3,$232,"$1,032","$1,264"
+12/1/2021,December,2021,36,Adults (35-64),F,Germany,Brandenburg,Bikes,2,$792,"$1,426","$2,218"
+12/1/2021,December,2021,20,Youth (<25),M,Germany,Hamburg,Bikes,1,$717,"$1,555","$2,272"
+12/1/2021,December,2021,23,Youth (<25),M,United Kingdom,England,Bikes,1,"$1,264","$2,171","$3,435"
+12/1/2021,December,2021,23,Youth (<25),F,United States,California,Bikes,1,$385,$713,"$1,098"
+12/1/2021,December,2021,28,Young Adults (25-34),F,Australia,New South Wales,Bikes,1,$570,"$1,555","$2,125"
+12/1/2021,December,2021,28,Young Adults (25-34),F,United States,California,Bikes,1,$185,$344,$529
+12/1/2021,December,2021,31,Young Adults (25-34),F,Australia,South Australia,Bikes,1,$448,"$1,555","$2,003"
+12/1/2021,December,2021,34,Young Adults (25-34),M,Australia,New South Wales,Bikes,1,$397,"$1,083","$1,480"
+12/1/2021,December,2021,44,Adults (35-64),M,United Kingdom,England,Bikes,1,$961,"$1,266","$2,227"
